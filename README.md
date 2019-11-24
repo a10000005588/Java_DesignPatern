@@ -16,4 +16,4 @@ https://hackmd.io/LMKj0LAFSMG2sXKaH5E5qQ
 
 ## Factory Method & Abstract Factory 工廠方法與抽象工廠模式
 
-https://hackmd.io/FrXU5y29RPmZIuzYes0zZw?both
+https://hackmd.io/sJJKlIJeSC6kODMNTzXLzg
