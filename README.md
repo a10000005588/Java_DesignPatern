@@ -21,3 +21,7 @@ https://hackmd.io/LMKj0LAFSMG2sXKaH5E5qQ
 ## Factory Method & Abstract Factory 工廠方法與抽象工廠模式
 
 https://hackmd.io/sJJKlIJeSC6kODMNTzXLzg
+
+## Command 命令模式
+
+https://hackmd.io/fZa0cmV2QtueOJ7QqS5bEA
