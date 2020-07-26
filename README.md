@@ -1,4 +1,4 @@
-# Java Design Patern筆記
+# Java Design Pattern筆記
 
 這裡收集我閱讀 "深入淺出設計模式"的筆記，筆記都會放在hackmd上
 
@@ -6,7 +6,7 @@
 
 https://hackmd.io/lVnz5tVqQcK88TKkfDHxyQ
 
-## Stragegy 策略模式
+## Strategy 策略模式
 
 https://hackmd.io/zLiq1GVaRwS7AUt_1kYt6Q
 
